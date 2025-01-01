@@ -1,4 +1,4 @@
-# Load Information Collection
+# Hybrid Load Information Collection
 
 import random
 import time
