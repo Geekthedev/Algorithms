@@ -16,7 +16,7 @@ This project demonstrates a simple approach to dynamic load balancing using Gola
 ## Usage
 To run the program:
 1. Install [Golang](https://golang.org/) if not already installed.
-2. Copy the code from `main.go` into a file named `(Whatever-you-named-your-file).go`.
+2. Copy the code from `application_based.go` into a file named `(Whatever-you-named-your-file).go`.
 3. Run the program:
    ```bash
-   go run main.go
+   go run your file.
