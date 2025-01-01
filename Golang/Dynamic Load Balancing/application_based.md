@@ -19,4 +19,4 @@ To run the program:
 2. Copy the code from `application_based.go` into a file named `(Whatever-you-named-your-file).go`.
 3. Run the program:
    ```bash
-   go run your file.
+   go run your-go file.
